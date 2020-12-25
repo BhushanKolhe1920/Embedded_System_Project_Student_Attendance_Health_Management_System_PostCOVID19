@@ -9,8 +9,8 @@ Embedded System Project : Students Attendance &amp; Health Monitoring Post Covid
 
 
 
-##Project Members : 
+## Project Members : 
 
 1. Bhushan Bhagwat Kolhe   bhushank1920@gamil.com
 2. Harshal Rajesh Rathod   rathodharshal99@gmail.com
-3. Jolly Bunga             
+3. Jolly Bunga             jollynishal07@gmail.com          
